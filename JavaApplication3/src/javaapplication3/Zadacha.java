@@ -16,6 +16,8 @@ public class Zadacha {
     int a = input.nextInt();
     int b = input.nextInt();
     System.out.println(a+b);
+        System.out.println(a/b);
+        System.out.println("proba 123");
     }
     
 }
